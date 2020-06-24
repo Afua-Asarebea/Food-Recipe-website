@@ -1,1 +1,8 @@
 This project is aimed at helping newbies in gaining cookery skills
+
+This website has the following features:
+
+1. Show a list of common breakfast dishes
+2. Show a list of continental snacks
+3. Show a list of african snacks
+4. Show a list of continental and african dishes
