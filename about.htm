@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>COOKBOOK RISE About</title>
+
+        <link href="styles.css" rel="stlesheet"/>
+    
+       
+    </head>
+    <body>
+        <H1>ABOUT</h1>
+
+            <script>
+                (function() {
+                    let names = [ "afua", "anna", "leticia"
+    ]
+    
+          
+    function sayHello (name) {
+                let bodyElement= document.getElementsByTagName('body');
+                let element = document.createElement("h1");
+    element.innerText = "Hello: " + name;
+    
+    bodyElement[0].append(element);
+    }
+    
+    names.forEach(sayHello);
+                })();
+            </script>
+    </body>
+    </html>
